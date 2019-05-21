@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Central:central@devconnector-uuvyt.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://Central:central@devconnector-uuvyt.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
 }
